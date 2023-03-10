@@ -24,7 +24,7 @@
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 </div> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mend3ss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mend3ss&layout=compact)
 
 ## Studying 📚
 
