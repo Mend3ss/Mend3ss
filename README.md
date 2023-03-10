@@ -1,4 +1,4 @@
-## Hi! Welcome to my GitHub ✌️ <br/>
+## Hi!, Welcome to my GitHub ✌️ <br/>
 
 <div>
 
@@ -11,7 +11,7 @@
 
 ![ GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mend3ss&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mend3ss&layout=compact)](https://github.com/Mend3ss/) <br/>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mend3ss&layout=compact&theme=tokyonight)](https://github.com/Mend3ss/) <br/>
 
 ## Main Skills 👨‍💻
 
