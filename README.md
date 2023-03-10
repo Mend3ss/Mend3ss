@@ -9,6 +9,9 @@
 
 </div> <br/>
 
+![ GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mend3ss&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mend3ss&layout=compact)](https://github.com/Mend3ss/) <br/>
 
 ## Main Skills 👨‍💻
 
@@ -21,6 +24,7 @@
 <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+
 </div> <br/>
 
 
@@ -53,4 +57,4 @@
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joao-mendes.66ac84de/badges)
 
-</div>
+</div> <br/>
