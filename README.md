@@ -2,7 +2,7 @@
 
 <div>
 
-### My name João, I'am a Networking Student who loves learn new things, whatever is't.
+### My name João, I am a Networking Student who loves to learn new things, whatever is it.
 
 <h3>• Currently working at "Darede", as an Cloud Intern </h3>
 <h3>• Studying DevOps tools, like Kubernetes </h3>
