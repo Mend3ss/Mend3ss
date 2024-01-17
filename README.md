@@ -1,11 +1,10 @@
-## Hi!, Welcome to my GitHub ✌️ <br/>
+## Aoba, tudo bom? ✌️ <br/>
 
 <div>
 
-### My name is João, I am a Networking Student who loves to learn new things, whatever is it.
+## Cloud Enginner na Darede
+### [Azure] (https://www.credly.com/badges/f49b5ba7-4de2-41ba-bdf6-adc4be07fe0a/public_url) & AWS Certified
 
-<h3>• Currently working at "Darede", as an Cloud Intern </h3>
-<h3>• Studying DevOps tools, like Kubernetes </h3>
 
 </div> <br/>
 
