@@ -2,7 +2,7 @@
 
 <div>
 
-## Cloud Enginner na Darede
+## Cloud Engineer na Darede
 <h3><a href="https://www.credly.com/badges/f49b5ba7-4de2-41ba-bdf6-adc4be07fe0a/public_url ">Azure</a> & <a href="https://www.credly.com/badges/1a7a13e8-bf31-42b9-977e-4345715133e1/public_url">AWS Certified</a></h3>
 
 
