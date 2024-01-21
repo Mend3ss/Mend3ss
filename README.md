@@ -2,7 +2,7 @@
 
 <div>
 
-## Cloud Engineer na Darede
+## Cloud Engineer
 <h3><a href="https://www.credly.com/badges/f49b5ba7-4de2-41ba-bdf6-adc4be07fe0a/public_url ">Azure</a> & <a href="https://www.credly.com/badges/1a7a13e8-bf31-42b9-977e-4345715133e1/public_url">AWS Certified</a></h3>
 
 
@@ -44,7 +44,7 @@
 
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 
-<img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+
 
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white " />
 </div> <br/>
