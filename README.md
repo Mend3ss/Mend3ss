@@ -1,8 +1,8 @@
-## Aoba, tudo bom? ✌️ <br/>
+## Hello everyone! I'm João Mendes (you can call me Mendes)  <br/>
 
 <div>
 
-## Cloud Engineer
+## I am a Cloud Security Engineer and a Network/Security student who loves studying how the world works!
 <h3><a href="https://www.credly.com/badges/f49b5ba7-4de2-41ba-bdf6-adc4be07fe0a/public_url ">Azure</a> & <a href="https://www.credly.com/badges/0ad78f50-d758-4ee1-8cb5-3c6a080e671c/public_url">AWS Certified</a></h3>
 
 
