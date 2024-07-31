@@ -7,11 +7,7 @@
 
 
 
-</div> <br/>
-
-![ GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mend3ss&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mend3ss&layout=compact&theme=tokyonight)](https://github.com/Mend3ss/) <br/>
+</div>
 
 ## Main Skills 👨‍💻
 
@@ -25,6 +21,12 @@
 
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 
+<img align="center" alt="TrendMicro" src="https://img.shields.io/badge/Trend%20Micro-D71921.svg?style=for-the-badge&logo=Trend-Micro&logoColor=white"/>
+
+<img align="center" alt="LinuxServer" src="https://img.shields.io/badge/LinuxServer-DA3B8A.svg?style=for-the-badge&logo=LinuxServer&logoColor=white"/>
+
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+
 </div> <br/>
 
 
@@ -32,29 +34,16 @@
 
 <div style="display: inline_block"><br/>
 
-<img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white " />
+<img align="center" alt="Trend" src="https://img.shields.io/badge/Trend%20Micro-D71921.svg?style=for-the-badge&logo=Trend-Micro&logoColor=white" />
 
-<img align="center" alt="EKS" src="https://img.shields.io/badge/Amazon%20EKS-FF9900.svg?style=for-the-badge&logo=Amazon-EKS&logoColor=white " />
+<img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </div> <br/>
 
-## Curious About 🧐
+## Here's a bit about me:
 
 <div style="display: inline_block"><br/>
-
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-
-
-
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white " />
-</div> <br/>
-
-## You can see more about me here!
-
-<div style="display: inline_block"><br/>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-mendes-souza/)
-
-[![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joao-mendes.66ac84de/badges)
+<a href="https://www.linkedin.com/in/joao-mendes-souza/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/users/joao-mendes.66ac84de/badges"><img align="center" alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" /></a>
 
 </div> <br/>
